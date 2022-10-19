@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aDMr1XIJJucSDhaqtTcVyizpzLRR0l7r/UwWGy2RAac=",
+  "Source": "JobSkillMicroserviceAPI",
+  "BasePath": "_content/JobSkillMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

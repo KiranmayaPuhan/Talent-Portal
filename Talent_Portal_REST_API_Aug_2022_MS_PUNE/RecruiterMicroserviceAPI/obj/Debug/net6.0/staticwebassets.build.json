@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dti3ubbrO4uIOZgEVzFeqNzrmWXxvOca1UrNfbqvk9o=",
+  "Source": "RecruiterMicroserviceAPI",
+  "BasePath": "_content/RecruiterMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

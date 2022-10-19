@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GQSWPyeGs7d53xSdwkCcWMJhCVOqYwEX4G56haYIkQo=",
+  "Source": "JobSkillMicroserviceAPIGateway",
+  "BasePath": "_content/JobSkillMicroserviceAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

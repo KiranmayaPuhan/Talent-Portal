@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ova4zDRKsxjFf0/sSYzE8KNFzoCAJ7g6Wxyjogd0fw0=",
+  "Source": "UserMicroserviceAPIGateway",
+  "BasePath": "_content/UserMicroserviceAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

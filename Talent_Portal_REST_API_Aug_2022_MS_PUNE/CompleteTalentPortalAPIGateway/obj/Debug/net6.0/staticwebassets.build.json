@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P2j5zGmXKkfj4rEf/kZ/fU1m7POZ2aLtQkref5nA0fU=",
+  "Source": "CompleteTalentPortalAPIGateway",
+  "BasePath": "_content/CompleteTalentPortalAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
