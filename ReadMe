@@ -1,1 +1,3 @@
-
+## read me file
+1. to install packages in react (frontend)use thecommand - npm install
+2. to install packages in Dot.Net use command -dotnet add package (package name)
