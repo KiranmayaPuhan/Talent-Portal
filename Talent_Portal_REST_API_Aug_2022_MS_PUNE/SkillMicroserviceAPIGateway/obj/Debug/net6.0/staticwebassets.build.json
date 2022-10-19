@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lpJbbAQTzA+WWPzT7323rICgCIBrzLoNbe1Tl5dNjIU=",
+  "Source": "SkillMicroserviceAPIGateway",
+  "BasePath": "_content/SkillMicroserviceAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

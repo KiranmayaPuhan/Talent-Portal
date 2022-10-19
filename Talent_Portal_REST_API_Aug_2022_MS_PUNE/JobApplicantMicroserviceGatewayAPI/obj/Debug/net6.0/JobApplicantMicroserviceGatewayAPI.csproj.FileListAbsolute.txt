@@ -1,0 +1,96 @@
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Ocelot.json
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.exe
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.deps.json
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.runtimeconfig.json
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.pdb
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Ocelot.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.AssemblyReference.cache
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.AssemblyInfoInputs.cache
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.AssemblyInfo.cs
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.CoreCompileInputs.cache
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\scopedcss\bundle\JobApplicantMicroserviceGatewayAPI.styles.css
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.CopyComplete
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\refint\JobApplicantMicroserviceGatewayAPI.dll
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.pdb
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.genruntimeconfig.cache
+C:\Users\gc69432\source\repos\TalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\ref\JobApplicantMicroserviceGatewayAPI.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\ocelot.json
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.exe
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.deps.json
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.runtimeconfig.json
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.pdb
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Ocelot.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.AssemblyReference.cache
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.AssemblyInfoInputs.cache
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.AssemblyInfo.cs
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.CoreCompileInputs.cache
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\scopedcss\bundle\JobApplicantMicroserviceGatewayAPI.styles.css
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.CopyComplete
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\refint\JobApplicantMicroserviceGatewayAPI.dll
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.pdb
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.genruntimeconfig.cache
+C:\Users\gc69432\Downloads\OneDrive_2022-09-22\TalentPortalAPI (1)\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\ref\JobApplicantMicroserviceGatewayAPI.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\appsettings.json
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\ocelot.json
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.exe
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.deps.json
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.runtimeconfig.json
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.pdb
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\bin\Debug\net6.0\Ocelot.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.AssemblyReference.cache
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.AssemblyInfoInputs.cache
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.AssemblyInfo.cs
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.CoreCompileInputs.cache
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\scopedcss\bundle\JobApplicantMicroserviceGatewayAPI.styles.css
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.csproj.CopyComplete
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\refint\JobApplicantMicroserviceGatewayAPI.dll
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.pdb
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\JobApplicantMicroserviceGatewayAPI.genruntimeconfig.cache
+D:\backend\CompleteTalentPortalAPI\JobApplicantMicroserviceGatewayAPI\obj\Debug\net6.0\ref\JobApplicantMicroserviceGatewayAPI.dll

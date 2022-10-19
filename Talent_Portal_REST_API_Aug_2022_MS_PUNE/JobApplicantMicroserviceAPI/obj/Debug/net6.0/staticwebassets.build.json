@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "McnigjmPhM0WyqxMt0Q10IFjH2gL571/YlDar98WyAI=",
+  "Source": "JobApplicantMicroserviceAPI",
+  "BasePath": "_content/JobApplicantMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

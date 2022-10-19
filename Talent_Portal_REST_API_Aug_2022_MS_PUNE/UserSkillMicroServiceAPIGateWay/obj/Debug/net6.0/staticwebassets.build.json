@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qG8mSbNA7E4M/Z74mH8SH1tOlmc0OMQo5Iw8qGDaUfU=",
+  "Source": "UserSkillMicroserviceAPIGateway",
+  "BasePath": "_content/UserSkillMicroserviceAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

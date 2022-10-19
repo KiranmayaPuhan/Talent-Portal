@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YNahv3Tv8L0+s3MYfzGenmiXpjK4mk6nymeXj7ayUxw=",
+  "Source": "SkillMicroserviceAPI",
+  "BasePath": "_content/SkillMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

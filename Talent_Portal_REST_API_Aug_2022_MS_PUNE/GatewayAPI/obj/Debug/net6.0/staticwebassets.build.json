@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DG+E4pfFmx+rMjetPogOwwW9BTXgxzhJqTAd9vvqEXs=",
+  "Source": "JobMicroserviceGatewayAPI",
+  "BasePath": "_content/JobMicroserviceGatewayAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
